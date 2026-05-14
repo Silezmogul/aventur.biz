@@ -8,6 +8,12 @@
 !index.html
 !styles.css
 
+!.github/
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/pages.yml
+
 !en/
 en/*
 !en/index.html
