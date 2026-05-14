@@ -34,10 +34,13 @@ assets/*
 !assets/Artwork/
 assets/Artwork/*
 !assets/Artwork/Mountain-alpha-5.png
+!assets/Artwork/Mountain-alpha-5.webp
 
 !assets/Hero image/
 assets/Hero image/*
 !assets/Hero image/aventurine_hero_nebula_alpha_brushed.png
+!assets/Hero image/aventurine_hero_nebula_alpha_brushed.webp
+!assets/Hero image/aventurine_hero_nebula_alpha_brushed_960.webp
 
 !assets/Symbols/
 assets/Symbols/*
@@ -47,6 +50,7 @@ assets/Symbols/*
 !assets/backgrounds/
 assets/backgrounds/*
 !assets/backgrounds/BG_DARK_LEATHER_TILE_1024_source-preserved_v4_quiet.png
+!assets/backgrounds/BG_DARK_LEATHER_TILE_1024_source-preserved_v4_quiet.webp
 
 !assets/favicon/
 assets/favicon/*
