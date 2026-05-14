@@ -303,6 +303,12 @@ h1 span,
   margin-top: 28px;
 }
 
+.card-row[id],
+.what-this-is[id],
+.contact-panel[id] {
+  scroll-margin-top: 24vh;
+}
+
 .service-card {
   min-height: 284px;
   padding: 34px 30px 28px;
