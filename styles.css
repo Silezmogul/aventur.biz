@@ -398,6 +398,24 @@ h1 span,
   line-height: 1.5;
 }
 
+/* Legal pages: keep long-form text readable and not forced into card widths. */
+.legal-page .steps-row {
+  grid-template-columns: 1fr;
+  width: min(1040px, calc(100% - 58px));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.legal-page .step-card {
+  text-align: left;
+}
+
+.legal-page .step-card p {
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .contact-panel {
   position: relative;
   z-index: 2;

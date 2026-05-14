@@ -17,10 +17,16 @@
 !en/
 en/*
 !en/index.html
+!en/legal/
+en/legal/*
+!en/legal/index.html
 
 !pl/
 pl/*
 !pl/index.html
+!pl/legal/
+pl/legal/*
+!pl/legal/index.html
 
 !assets/
 assets/*
