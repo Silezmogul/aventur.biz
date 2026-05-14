@@ -1,0 +1,45 @@
+*
+
+!.gitignore
+!LICENSE
+!.nojekyll
+!CNAME
+!404.html
+!index.html
+!styles.css
+
+!en/
+en/*
+!en/index.html
+
+!pl/
+pl/*
+!pl/index.html
+
+!assets/
+assets/*
+
+!assets/Artwork/
+assets/Artwork/*
+!assets/Artwork/Mountain-alpha-5.png
+
+!assets/Hero image/
+assets/Hero image/*
+!assets/Hero image/aventurine_hero_nebula_alpha_brushed.png
+
+!assets/Symbols/
+assets/Symbols/*
+!assets/Symbols/When autonomy created ambiguity_alpha_crop.png
+!assets/Symbols/When growth outpaced structure_alpha_crop.png
+
+!assets/backgrounds/
+assets/backgrounds/*
+!assets/backgrounds/BG_DARK_LEATHER_TILE_1024_source-preserved_v4_quiet.png
+
+!assets/favicon/
+assets/favicon/*
+!assets/favicon/favicon2.png
+
+!assets/logo/
+assets/logo/*
+!assets/logo/aventur-hero-image_cross_star.png
